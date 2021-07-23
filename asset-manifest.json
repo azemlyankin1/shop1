@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c10c173f.chunk.css",
+    "main.js": "/static/js/main.f3f009a9.chunk.js",
+    "main.js.map": "/static/js/main.f3f009a9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.615509ff.js",
+    "runtime-main.js.map": "/static/js/runtime-main.615509ff.js.map",
+    "static/js/2.7fe265d2.chunk.js": "/static/js/2.7fe265d2.chunk.js",
+    "static/js/2.7fe265d2.chunk.js.map": "/static/js/2.7fe265d2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c10c173f.chunk.css.map": "/static/css/main.c10c173f.chunk.css.map",
+    "static/js/2.7fe265d2.chunk.js.LICENSE.txt": "/static/js/2.7fe265d2.chunk.js.LICENSE.txt",
+    "static/media/image1.305555f1.png": "/static/media/image1.305555f1.png",
+    "static/media/jackets.db8f8bcd.png": "/static/media/jackets.db8f8bcd.png",
+    "static/media/logo.6f767f40.png": "/static/media/logo.6f767f40.png",
+    "static/media/sale.2c8abba3.png": "/static/media/sale.2c8abba3.png",
+    "static/media/sniccers.582fe806.png": "/static/media/sniccers.582fe806.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.615509ff.js",
+    "static/js/2.7fe265d2.chunk.js",
+    "static/css/main.c10c173f.chunk.css",
+    "static/js/main.f3f009a9.chunk.js"
+  ]
+}
